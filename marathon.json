@@ -1,0 +1,15 @@
+{
+  "id": "hubot-scratch",
+  "mem": 1024,
+  "container": {
+    "type": "DOCKER",
+    "docker": {
+      "image": "tonykerz/hubot-scratch"
+    }
+  },
+  "env": {
+    "HUBOT_CAMPFIRE_ACCOUNT": "kerzsoft",
+    "HUBOT_CAMPFIRE_TOKEN": "203952564d6d9ca107445e7a4d0d91326418a86d",
+    "HUBOT_CAMPFIRE_ROOMS": "614950"
+  }
+}

@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire
+exec: bin/hubot -a campfire
